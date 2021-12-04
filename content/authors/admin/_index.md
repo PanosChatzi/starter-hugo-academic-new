@@ -43,18 +43,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:chatzinpn@phed-sr.auth.gr"  # For a direct email link, use "mailto:chatzinpn@phed-sr.auth.gr" or '/#contact' to link with contact.
+#- icon: envelope
+ # icon_pack: fas
+  #link: "mailto:chatzinpn@phed-sr.auth.gr"  # For a direct email link, use "mailto:chatzinpn@phed-sr.auth.gr" or '/#contact' to link with contact.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanosChatz1
 - icon: github
   icon_pack: fab
   link: https://github.com/PanosChatzi
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
+#- icon: linkedin
+ # icon_pack: fab
+  #link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en
