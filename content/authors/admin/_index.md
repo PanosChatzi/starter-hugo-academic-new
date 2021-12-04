@@ -14,7 +14,7 @@ organizations:
   url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My field of study is in exercise physiology with a focus on quantitative redox biology of exercise.
+bio: 
 
 # Interests to show in About widget
 interests:
