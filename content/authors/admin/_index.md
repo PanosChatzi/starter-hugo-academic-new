@@ -80,4 +80,4 @@ I am a PhD candidate in exercise physiology at Aristotle University of Thessalon
 
 In my project I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
 
-You can read more in my {{< staticref "files/Eng-cv.pdf" "newtab" >}}Resume{{< /staticref >}}.
+You can read more in my {{< staticref "files/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
