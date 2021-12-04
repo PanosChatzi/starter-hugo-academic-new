@@ -9,7 +9,7 @@ authors:
 - Anastasios A. Theodorou
 - Panagiotis T. Zinelis
 - Vassiliki J. Malliou
-- Panagiotis N. Chatzinikolaou
+- admin
 - Nikos V. Margaritelis
 - Dimitris Mandalidis
 - Nickos D. Geladas

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nikos V. Margaritelis
-- Panagiotis N. Chatzinikolaou
+- admin
 - Flora V. Bousiou
 - Vasiliki J. Malliou
 - Sousana K. Papadopoulou

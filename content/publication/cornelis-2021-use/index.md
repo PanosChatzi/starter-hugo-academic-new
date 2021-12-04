@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nils Cornelis
-- Panagiotis Chatzinikolaou
+- admin
 - Roselien Buys
 - Inge Fourneau
 - Jomme Claes
@@ -19,6 +19,11 @@ date: '2021-05-01'
 lastmod: 2021-12-03T18:11:08+02:00
 featured: false
 draft: false
+
+# Author notes
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

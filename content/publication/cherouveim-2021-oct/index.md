@@ -11,7 +11,7 @@ authors:
 - Panagiotis Koulouvaris
 - Charis Tsolakis
 - Vasiliki J. Malliou
-- Panagiotis N. Chatzinikolaou
+- admin
 - Martino V. Franchi
 - Simone Porcelli
 - Antonios Kyparos

@@ -10,7 +10,7 @@ authors:
 - Evgenia D. Cherouveim
 - Vassiliki J. Malliou
 - Nikos V. Margaritelis
-- Panagiotis N. Chatzinikolaou
+- admin
 - Panayiotis Koulouvaris
 - Charilaos Tsolakis
 - Michalis G. Nikolaidis
